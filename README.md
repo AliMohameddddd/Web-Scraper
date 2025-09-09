@@ -29,7 +29,7 @@ Before installing, make sure you have:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/reda-marzouk608/scrape-master.git
+   git clone https://github.com/rAliMohameddddd/scrape-master.git
    cd scrape-master
    ```
 2. **Create and activate a virtual environment** (recommended)
@@ -72,3 +72,4 @@ Open your browser to **[http://localhost:8501](http://localhost:8501)** (or the 
 ---
 
 ✨ **Moe’s Webscraper** empowers you to turn any website into a structured dataset—fast, reliably, and without writing a single line of parsing code. Happy scraping! 🥳
+
